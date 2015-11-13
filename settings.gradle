@@ -1,0 +1,8 @@
+rootProject.name = 'OnlineExaminationSystem'
+
+include(':oescore')
+include(':oesui')
+
+project(':oescore').projectDir = "$rootDir/oescore" as File
+project(':oesui').projectDir = "$rootDir/oesui" as File
+

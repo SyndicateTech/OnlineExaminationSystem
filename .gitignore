@@ -1,5 +1,6 @@
 .*
 !.gitignore
+!build.gradle
 *.ipr
 *.iws
 *.iml
@@ -12,3 +13,4 @@ META-INF
 log
 release_
 output
+build
