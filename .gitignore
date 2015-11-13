@@ -1,0 +1,14 @@
+.*
+!.gitignore
+*.ipr
+*.iws
+*.iml
+*.ini
+.idea
+out
+bin
+target
+META-INF
+log
+release_
+output
